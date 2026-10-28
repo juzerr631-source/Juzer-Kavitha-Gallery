@@ -1,0 +1,2 @@
+// EDIT SAMPLE ENTRIES HERE. This is not a secure admin interface.
+window.GALLERY_PHOTOS=[{title:"Architectural Lines",artist:"Juzer",category:"Architecture",price:499,symbol:"⌂"},{title:"Quiet Streets",artist:"Juzer",category:"Street",price:499,symbol:"◈"},{title:"Nature's Pause",artist:"Kavitha",category:"Nature",price:499,symbol:"❋"},{title:"Open Horizons",artist:"Kavitha",category:"Scenery",price:499,symbol:"◒"}];
